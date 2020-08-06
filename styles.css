@@ -1,0 +1,23 @@
+img {
+    border-radius: 100px;
+    border-style: solid;
+    border-color: darkblue;
+}
+body {
+    background-color: aqua;
+}
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: white;
+}
+h1{
+    color: blue;
+}
+h3{
+    color: blue;
+}
+h4{
+    color: blue;
+}
+
